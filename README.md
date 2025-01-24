@@ -24,7 +24,7 @@ the dataset click [here](https://www.kaggle.com/datasets/harshitshankhdhar/imdb-
 * Train Models: Use Logistic Regression, Naive Bayes, or SVM (sklearn).
 * Evaluate: Use accuracy, precision, and F1-score metrics.
  ### Platforms:
-*VS Code, jupyter
+* VS Code, jupyter
 ## Factors
 * Easy Text Cleaning: Uses simple techniques like removing unwanted words, punctuation, and converting text to lowercase.
 * Clear Visuals: Shows sentiment distribution and word clouds for easy understanding.
@@ -42,9 +42,9 @@ the dataset click [here](https://www.kaggle.com/datasets/harshitshankhdhar/imdb-
 
 ## conclusion
 * The sentiment analysis on IMDb movie reviews demonstrates the effectiveness of machine learning models in accurately predicting audience sentiment.
-* By leveraging advanced text preprocessing techniques, vectorization methods like TF-IDF, and models such as Logistic Regression, Naive Bayes, and SVM, the project achieves high accuracy in sentiment classification. The detailed evaluation metrics, including precision and recall, highlight the reliability of these models in understanding and analyzing movie reviews. 
+* By leveraging advanced text preprocessing techniques, vectorization methods like TF-IDF, and models such as Logistic Regression, Multinomial Naive Bayes, and SVM, the project achieves high accuracy in sentiment classification. The detailed evaluation metrics, including precision and recall, highlight the reliability of these models in understanding and analyzing movie reviews. 
 * This project not only provides accurate insights but also proves to be a scalable and practical solution for real-world applications in entertainment and research industries.
- *We can observed that both logistic regression and multinomial naive bayes model performing well compared to linear support vector machines.
+* We can observed that both logistic regression and multinomial naive bayes model performing well compared to linear support vector machines.
 * Still we can improve the accuracy of the models by preprocessing data and by using lexicon models like Text blob.
 
 
