@@ -32,6 +32,13 @@ the dataset click [here](https://www.kaggle.com/datasets/harshitshankhdhar/imdb-
 * Flexible Workflow: Easily customizable to try different approaches or models.
 * Scalable: Can be used in real apps or websites for real-time analysis.
 * Simple Evaluation: Provides clear performance metrics to understand how well the model works.
+## Model Accuracy
+#### Logistic regression 
+![image alt](https://github.com/prasannayadav7/ibdmmoviereview/blob/2fb2b31f311b12b9ffa226e2139aa2076ba01e7e/lr%20model%20accuracy.png)
+#### Stochastic gradient descent or Linear support vector machine 
+![image alt](https://github.com/prasannayadav7/ibdmmoviereview/blob/2fb2b31f311b12b9ffa226e2139aa2076ba01e7e/sdgc(svm)model%20accuracy.png)
+#### Multinomial Naive Bayes
+![image alt](https://github.com/prasannayadav7/ibdmmoviereview/blob/2fb2b31f311b12b9ffa226e2139aa2076ba01e7e/MultinomialNB%20model%20accuray.png)
 
 ## conclusion
 * The sentiment analysis on IMDb movie reviews demonstrates the effectiveness of machine learning models in accurately predicting audience sentiment.
